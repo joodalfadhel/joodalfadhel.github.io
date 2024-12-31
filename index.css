@@ -1,8 +1,29 @@
 
 body {
-    font-family: 'DM Sans', sans-serif;
-    background-color: #D8E4FF; /* coolors.co !!!!!*/
+    font-family: "Inter", serif;
+    font-weight: 100;
+    background-color: #f2eddf; /* coolors.co !!!!!*/
   }
+
+  h1{
+    font-family: "Inter", serif;
+    font-weight: 80;
+  }
+  
+  h2 {
+    font-family: "Inter", serif;
+    font-weight: 80;
+  }
+
+
+  h3 {
+    font-family: "Inter", serif;
+    font-weight: 40;
+  }
+
+
+
+
 
 
 /* navigation bar!! */
@@ -11,7 +32,6 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #35605A;
   }
   
   li {
@@ -20,12 +40,13 @@ body {
   
   li a {
     display: block;
-    color: #D8E4FF;
+    color: #563c5c;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 46px;
     text-decoration: none;
   }
   
   li a:hover {
     background-color: #35605A;
   }
+
